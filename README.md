@@ -12,6 +12,11 @@
   <br>
 </p>
 
+## Technology Stack and Dependencies
+
+For a detailed overview of the technology stack and dependencies, see the AI Readme:
+- [AI Readme: Technology Stack and Dependencies](architecture.md)
+
 ## Local Development
 
 | Command       | Description                                      |
